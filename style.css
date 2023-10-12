@@ -8,7 +8,7 @@ html {
     scroll-behavior: smooth;
 }
 body{
-    background: #280001;
+    background: #0d1118;
     color: #f2e3d4;
 }
 #header{
@@ -26,6 +26,8 @@ nav {
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
+        color: #fa9f1d;
+
 }
 .logo{
     width: 280px;
@@ -34,6 +36,7 @@ nav ul li{
     display: inline-block;
     list-style: none;
     margin: 10px 20px;
+    color: #fa9f1d;
 }
 nav ul li a{
     color: #fa9f1d;
@@ -165,7 +168,7 @@ nav ul li a:hover::after{
     display: inline-block;
 }
 .services-list div:hover{
-    background: #670d05;
+    background: #0d1118;
     transform: translateY(-10px);
 } 
 #portfolio {
@@ -192,7 +195,7 @@ nav ul li a:hover::after{
 .layer{
     width: 100%;
     height: 0;
-    background: linear-gradient(rgba(0,0,0,0.6), #670d05);
+    background: linear-gradient(rgba(0,0,0,0.6), #0d1118);
     border-radius: 10px;
     position: absolute;
     left: 0;
@@ -243,7 +246,7 @@ nav ul li a:hover::after{
 }
 
 .btn:hover{
-    background: #670d05;
+    background: #0d1118;
 }
 
 .contact-left{
@@ -277,7 +280,7 @@ nav ul li a:hover::after{
 }
 .btn.btn2{
     display: inline-block;
-    background: #670d05;
+    background: #0d1118;
 }
 contact-right form{
     width: 100%;
