@@ -1,8 +1,8 @@
 # First Frontend-Project - HTML/CSS Practice
 
 ## Personal Portfolio v1
-<img width="1667" alt="Screenshot 2023-10-12 at 4 47 55 PM" src="https://github.com/oscarabreu/Personal-Website-v1/assets/99779654/4e3c0211-287c-49ee-ba56-06cdcc62dc31">
-<img width="1662" alt="Screenshot 2023-10-12 at 4 48 06 PM" src="https://github.com/oscarabreu/Personal-Website-v1/assets/99779654/aaf40ac6-0dc0-41a1-9423-d8f13314babe">
-<img width="1661" alt="Screenshot 2023-10-12 at 4 48 17 PM" src="https://github.com/oscarabreu/Personal-Website-v1/assets/99779654/306d1644-3b60-4300-9202-c04116fd2114">
-<img width="1662" alt="Screenshot 2023-10-12 at 4 48 22 PM" src="https://github.com/oscarabreu/Personal-Website-v1/assets/99779654/2607258b-88cd-4e93-a5df-ad95c46d3b45">
 
+![Screenshot 2023-10-19 at 6 01 15 PM](https://github.com/oscarabreu/Personal-Portfolio-v1/assets/99779654/79c44144-3d73-4749-a75a-3800a6d3faff)
+![Screenshot 2023-10-19 at 6 01 24 PM](https://github.com/oscarabreu/Personal-Portfolio-v1/assets/99779654/e7641c67-ad01-4983-89d4-ddee02756358)
+![Screenshot 2023-10-19 at 6 01 33 PM](https://github.com/oscarabreu/Personal-Portfolio-v1/assets/99779654/6b2e8d41-4a17-4a49-b029-43f8fd0602b3)
+![Screenshot 2023-10-19 at 6 01 45 PM](https://github.com/oscarabreu/Personal-Portfolio-v1/assets/99779654/5908348c-15bc-4a95-91f2-deb734bd26d4)
